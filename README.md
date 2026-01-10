@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently working on a project called Network <br> I am open to collaborate with MERN stack projects<br> I am currently learning React.js and Express.js<br> Fun fact I'm a huge fan of video games
+ I am currently working on a project called Tenzies <br> I am open to collaborate with MERN stack projects<br> I am currently learning React.js and Express.js<br> Fun fact I'm a huge fan of video games
 
 
 ## 🌐 Socials:
