@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently working on a project called Tenzies <br> I am open to collaborate with MERN stack projects<br> I am currently learning Express.js<br> I do what I want to
+ I am currently working on a project called Collaborative Task Manager <br> I am open to collaborate with MERN stack projects<br> I am currently learning Express.js<br> I do what I want to
 
 
 ## 🌐 Socials:
