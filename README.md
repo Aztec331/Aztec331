@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently working on a project called AI chatbot helper and Gigflow <br> I am open to collaborate with MERN stack projects<br> I am currently learning Springboot<br> I do what I want to
+ I am currently working on AI chatbot helper and Gigflow <br> I am open to collaborate with MERN stack projects<br> I am currently learning Springboot and fastapi<br> I do what I want to
 
 
 ## 🌐 Socials:
