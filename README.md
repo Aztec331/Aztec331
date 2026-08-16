@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently working on DocChat and Reasearch Radar <br> I am open to collaborate with MERN stack projects<br> I do what I want to
+ I am currently working on DocChat<br> I am open to collaborate with MERN stack projects<br> I do what I want to
 
 
 ## 🌐 Socials:
